@@ -1,1 +1,1 @@
-# I am learning how to use Git!
+# This summer...I am learning how to use Git!
